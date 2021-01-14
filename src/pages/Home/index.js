@@ -38,7 +38,7 @@ const Home = ({navigation}) => {
   return (
     <SafeAreaView style={styles.container}>
         <View style={styles.header}>
-          <Text style={styles.title}>LIST BOARD</Text>
+          <Text style={styles.title}>Laporan Harian</Text>
           <View style={styles.garis} />
         </View>
     
